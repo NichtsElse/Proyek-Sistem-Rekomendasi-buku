@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Rizky Prayogi Reksomulyo
+# Laporan Proyek Sistem Rekomendasi buku - Rizky Prayogi Reksomulyo
 
 ## Project Overview
 
